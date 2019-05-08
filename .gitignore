@@ -1,0 +1,15 @@
+*~
+*.pid
+*.sw?
+*.pyc
+*.orig
+*hgignore*
+.DS_Store
+.hg
+.~lock*
+.idea
+
+*_BACKUP_*
+*_BASE_*
+*_LOCAL_*
+*_REMOTE_*
